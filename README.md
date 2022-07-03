@@ -1,4 +1,4 @@
-## <img height="60" width="60" src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47257sdjh4vijigd5maj50rx9nx4zm2296pkc1kiyw&rid=giphy.gif&ct=g" /> Siempre listo para empezar.
+## <img height="60" width="60" src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47257sdjh4vijigd5maj50rx9nx4zm2296pkc1kiyw&rid=giphy.gif&ct=g" /> Siempre listo para empezar. <a href="https://discord.gg/kq66aNhd"> Contacta conmigo! </a>
 
 - Mis especializaciones<br> 
 Desarrollo web, aplicaciones moviles.<br>
