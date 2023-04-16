@@ -5,7 +5,7 @@ Desarrollo web, aplicaciones moviles.<br>
 Integración de frontend con backend.<br>
 Uso de base de datos relacionales y no relacionales.<br><br>
 
-Me encuentro desarrollando sofware hace mas de 3 años, continuamente mejorando la calidad del código.<br>
+Me encuentro desarrollando sofware hace mas de 3 años de experiencia utilizando Angular, Typescript, RxJS, C# y SQL. En busca de buenas practicas como Clean Code, TDD y utilizando los principios SOLID. Me propongo siempre mejorar la calidad de mi código.<br>
 
 ##
 ##### Mi estilo de código
